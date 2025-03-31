@@ -16,7 +16,7 @@ Full Report: A detailed write-up of this study is available in `report.pdf`.
 
 - Applying a Box-Cox transformation on SalePrice will improve the performance of predictive models
 
-<img src="./plots/predict_saleprice.png" width="400px">
+<img src="./plots/predict_saleprice.png" width="500px">
 
 - Higher-priced homes tend to have lower predictive accuracy
 
