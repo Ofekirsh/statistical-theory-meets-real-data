@@ -2,9 +2,9 @@
 
 This repository contains the code and analysis for predicting house prices using the [Ames Housing Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
 
-Our goal is twofold:
-1. To model and predict sale prices of houses using machine learning techniques.
-2. To implement and apply statistical tests to better understand the data and validate assumptions prior to modeling.
+The goal is twofold:
+1. To implement and apply statistical tests to better understand the data and validate assumptions prior to modeling.
+2. To model and predict sale prices of houses using machine learning techniques.
 
 Full Report: A detailed write-up of this study is available in `report.pdf`.
 
@@ -12,15 +12,15 @@ Full Report: A detailed write-up of this study is available in `report.pdf`.
 
 - Numerical features are more significant predictors of SalePrice compared to categorical features
 
-<img src="./plots/feature_importance.png" >
+<img src="./plots/feature_importance.png" width="400px">
 
 - Applying a Box-Cox transformation on SalePrice will improve the performance of predictive models
 
-<img src="./plots/predict_saleprice.png" >
+<img src="./plots/predict_saleprice.png" width="400px">
 
 - Higher-priced homes tend to have lower predictive accuracy
 
-<img src="./plots/error_in_high_price.png" >
+<img src="./plots/error_in_high_price.png" width="400px">
 
 ## Setup
 
