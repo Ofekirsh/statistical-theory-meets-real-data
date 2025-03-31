@@ -6,7 +6,7 @@ The goal is twofold:
 1. To implement and apply statistical tests to better understand the data and validate assumptions prior to modeling.
 2. To model and predict sale prices of houses using machine learning techniques.
 
-Full Report: A detailed write-up of this study is available in `report.pdf`.
+Full Report: A detailed write-up of this study is available in [report.pdf](./report.pdf).
 
 ## Project Highlights
 
